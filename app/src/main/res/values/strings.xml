@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Beach Glass App</string>
+    <string name="aboutText">The intent of this app is to teach you about beach glass, show you where to find it, and help identify your pieces.</string>
+    <string name="Title">Beach Glass</string>
+    <string name="title_activity_about_beach_glass">AboutBeachGlass</string>
+    <string name="glassDefine">Naturally produced beach glass originates as pieces of glass from broken bottles, broken tableware, or even shipwrecks, which are rolled and tumbled in a lake for years until all of their edges are rounded off, and the slickness of the glass has been worn to a frosted appearance</string>
+    <string name="title_activity_identify">Identify</string>
+    <string name="clearDefine">Clear is common and can come from just about anywhere from a new soda bottle to an old pane of glass. You can usually determine how old your white glass is by the thickness and any markings or bubbles. Many angular shapes of sea glass are white pieces.</string>
+    <string name="aqua">Aqua is very desirable this shade of glass on one of the rarest. Deep aqua glass could have been a Ball canning jar or insulator used on electric poles in the early 1900\'s. Decorative glass like stained glass and house wares could also be a source</string>
+    <string name="green">Green sea glass is a WIDE range of shades and hues. Heineken bottles, Rolling Rock, and lots of red wines come in green bottles still today. There is a wide variation of green though and common green generally refers to a kelly green.</string>
+    <string name="About">About Beach Glass</string>
+</resources>
